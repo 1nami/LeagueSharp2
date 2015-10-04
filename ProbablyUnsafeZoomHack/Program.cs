@@ -14,7 +14,7 @@ namespace eoqqq
 
         static void Game_OnGameLoad(EventArgs args)
         {
-            Hacks.ZoomHack = true;
+            Hacks.eoqqq = true;
             Game.PrintChat("[1nami: eoqqq] eoqqq is Enabled");
         }
     }
