@@ -7,8 +7,8 @@
     <ProjectGuid>{6DE11EF1-A264-4B29-8E64-975A672A1CAB}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ZoomHack</RootNamespace>
-    <AssemblyName>ZoomHack</AssemblyName>
+    <RootNamespace>eoqqq</RootNamespace>
+    <AssemblyName>eoqqq</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <PreBuildEvent />
